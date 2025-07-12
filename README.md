@@ -1,4 +1,4 @@
-# PROJECT2
+# DecorationSite
  responsive decoration website using Html/ CSS/ Js
  check this link 
  lamizdecor.ir
